@@ -11,7 +11,7 @@ app.set('view engine', 'ejs');
 const conectar = mysql.createConnection({
     host: 'localhost',
     user: 'admin',
-    password: '909290',
+    password: 'senha',
     database: 'techstore'
 });
 
